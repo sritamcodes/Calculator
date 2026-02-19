@@ -51,10 +51,8 @@ Pressing "C" clears the display.
 <h3>▶️ How to Run</h3>
 
 <p>
-1. Clone the repository:<br>
-<code>git clone https://github.com/your-username/calculate-me.git</code><br><br>
-2. Open <code>index.html</code> in your browser.
-</p>
+1. Copy this link and run in your browser<br>
+https://sritamcodes.github.io/Calculator/
 
 <h3>⚠️ Important Note</h3>
 
